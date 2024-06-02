@@ -1,0 +1,11 @@
+.button{
+    @include button();
+    width: 180px;
+    height: 60px;
+    margin-top: 40px;
+    justify-content: center;
+    align-items: center;
+    font-family: $secundary-font;
+    font-size: 18px;
+    text-align: center;
+}
