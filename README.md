@@ -11,10 +11,10 @@ Este es un header de un portafolio personal. La pagina esta optimizada para pant
 ## Vista Previa
 
 <img src="/img/Personal-Portfolio.png">
-<a href="https://github.com/EstherChuCortes/HTML-CSS-SASS-Grocery-Store" target="_blank">
+<a href="https://github.com/EstherChuCortes/CSS-header-Portafolio-1/tree/main" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=VER CODIGO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://estherchucortes.github.io/HTML-CSS-SASS-Grocery-Store/" target="_blank">
+  <a href="https://estherchucortes.github.io/CSS-header-Portafolio-1/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=VER WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
 
